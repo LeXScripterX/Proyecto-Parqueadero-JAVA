@@ -1,1 +1,38 @@
 / public_parking_manager/build/
+
+
+# Archivos form de Java
+*.form
+
+# Archivos .env
+*.env
+
+
+# Archivos compilados
+*.class
+
+# Directorios de salida
+target/
+build/
+out/
+
+# Archivos de sistema
+*.swp
+.DS_Store
+
+# Archivos de log
+*.log
+
+# Archivos de entorno IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Archivos binarios
+*.jar
+*.war
+*.ear
+
+# Archivos de configuración
+*.properties
